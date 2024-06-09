@@ -1,0 +1,2 @@
+-<font color="purple">My 1st project in github<br>
+-This basically showcases my thoughts about a particular topic or page i m interested in..which i spread through my coding skills <3 </font>
